@@ -1,0 +1,53 @@
+﻿@page
+@model DodajKursModel
+@{
+    ViewData["Title"] = "Dodaj kurs na dan";
+}
+
+<main>
+    <h1>Unos kursa</h1>
+    <div class="separator"></div>
+    <div class="form-unos-kursa">
+        <form method="post">
+            <div class="row">
+                <label for="datum-kursa">Datum:</label>
+                <input asp-for="Input.Datum" id="datum-kursa">
+                <span asp-validation-for="Input.Datum" style="display: block; padding: .2rem; color: red;"></span>
+            </div>
+            <div class="row">
+                <label for="valuta-kursa">Valuta:</label>
+                <select asp-for="Input.Valuta" asp-items="Model.opcije"></select>
+                <span asp-validation-for="Input.Valuta" style="display: block; padding: .2rem; color: red;"></span>
+            </div>
+            <div class="row">
+                <label for="iznos-kursa">Iznos:</label>
+                <input asp-for="Input.vrednKursa" id="iznos-kursa">
+                <span asp-validation-for="Input.vrednKursa" style="display: block; padding: .2rem; color: red;"></span>
+            </div>
+            <div class="separator"></div>
+            <input type="submit" value="Snimi">
+        </form>
+        <button class="odustaniBtn" style="display: inline; padding: .3rem .5rem; margin: .3rem; transform: translate(64px, -38px); cursor: pointer;">Odustani</button>
+    </div>
+</main>
+
+<h4 style="padding-left: 1.5rem">
+    @ViewData["Greska"]
+</h4>
+
+<footer>
+    <div class="footer-text">Elektrotehnička škola "Nikola Tesla" Beograd</div>
+    <nav>
+        <a asp-page="/Index">Kurs na dan</a>
+        <a asp-page="/Privacy">o autoru</a>
+    </nav>
+</footer>
+
+<script>
+    const btnOdustani = document.querySelector(".odustaniBtn");
+
+    btnOdustani.addEventListener("click", () => {
+        location.href = './Index';
+    })
+</script>
+

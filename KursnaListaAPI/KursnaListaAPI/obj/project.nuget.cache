@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsauEVKxn7vSssKknUdNHO8XnVCDG+1RVXi5nZtMxIBZkMbXNC+He/pXvqu5iwnQ+HgZmZCAWUeFL5nXAZsOPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaAPI\\KursnaListaAPI\\KursnaListaAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.11\\microsoft.aspnetcore.jsonpatch.6.0.11.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.11\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.11.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Milinkovic\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

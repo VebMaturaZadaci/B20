@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Kursna lista";
+}
+
+<main>
+    <div class="kurs-form">
+        <form method="post" style="display: inline;">
+            <label for="kurs-date">Datum:</label>
+            <input asp-for="Input.Datum" id="kurs-date">
+            <label for="kurs-date">Valuta:</label>
+            <select asp-for="Input.Valuta" asp-items="Model.opcije"></select>
+            <input type="submit" value="Prikazi">
+        </form>
+        <button class="dodajBtn" style="display: inline; padding: .3rem .5rem; margin: .3rem; cursor: pointer;">Dodaj</button>
+    </div>
+    <div class="separator"></div>
+    <h1 class="result">@ViewData["Poruka"]</h1>
+</main>
+
+<footer>
+    <div class="footer-text">Elektrotehnička škola "Nikola Tesla" Beograd</div>
+    <nav>
+        <a asp-page="/DodajKurs">Unos kursa</a>
+        <a asp-page="/Privacy">o autoru</a>
+    </nav>
+</footer>
+
+<script>
+    const btnDodaj = document.querySelector(".dodajBtn");
+
+    btnDodaj.addEventListener("click", () => {
+        location.href = './DodajKurs';
+    })
+</script>

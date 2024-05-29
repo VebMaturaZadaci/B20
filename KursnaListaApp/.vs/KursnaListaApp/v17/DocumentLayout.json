@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|c:\\users\\milinkovic\\desktop\\kursnalista\\kursnalistaapp\\kursnalistaapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|solutionrelative:kursnalistaapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|c:\\users\\milinkovic\\desktop\\kursnalista\\kursnalistaapp\\kursnalistaapp\\pages\\dodajkurs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|solutionrelative:kursnalistaapp\\pages\\dodajkurs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|c:\\users\\milinkovic\\desktop\\kursnalista\\kursnalistaapp\\kursnalistaapp\\pages\\dodajkurs.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|solutionrelative:kursnalistaapp\\pages\\dodajkurs.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|c:\\users\\milinkovic\\desktop\\kursnalista\\kursnalistaapp\\kursnalistaapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|solutionrelative:kursnalistaapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|c:\\users\\milinkovic\\desktop\\kursnalista\\kursnalistaapp\\kursnalistaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|solutionrelative:kursnalistaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|c:\\users\\milinkovic\\desktop\\kursnalista\\kursnalistaapp\\kursnalistaapp\\kursnalistaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AE8C77AB-B96F-4564-B463-4EC853EF785E}|KursnaListaApp\\KursnaListaApp.csproj|solutionrelative:kursnalistaapp\\kursnalistaapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1280,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DodajKurs.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Pages\\DodajKurs.cshtml.cs",
+              "RelativeDocumentMoniker": "KursnaListaApp\\Pages\\DodajKurs.cshtml.cs",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Pages\\DodajKurs.cshtml.cs",
+              "RelativeToolTip": "KursnaListaApp\\Pages\\DodajKurs.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:40:00.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DodajKurs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Pages\\DodajKurs.cshtml",
+              "RelativeDocumentMoniker": "KursnaListaApp\\Pages\\DodajKurs.cshtml",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Pages\\DodajKurs.cshtml",
+              "RelativeToolTip": "KursnaListaApp\\Pages\\DodajKurs.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T08:40:00.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "KursnaListaApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "KursnaListaApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwD8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:40:00.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "KursnaListaApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "KursnaListaApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T08:40:00.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Program.cs",
+              "RelativeDocumentMoniker": "KursnaListaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\Program.cs",
+              "RelativeToolTip": "KursnaListaApp\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T08:40:00.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KursnaListaApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\KursnaListaApp.csproj",
+              "RelativeDocumentMoniker": "KursnaListaApp\\KursnaListaApp.csproj",
+              "ToolTip": "C:\\Users\\Milinkovic\\Desktop\\KursnaLista\\KursnaListaApp\\KursnaListaApp\\KursnaListaApp.csproj",
+              "RelativeToolTip": "KursnaListaApp\\KursnaListaApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T08:40:00.665Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 436,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

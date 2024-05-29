@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "y20ysDAXi6rhWYBv1Uu2Qy1PP3AlMTY1w6OOn4RJNDo=",
+  "Source": "KursnaListaAPI",
+  "BasePath": "_content/KursnaListaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "KursnaListaAPI\\wwwroot",
+      "Source": "KursnaListaAPI",
+      "ContentRoot": "C:\\Users\\BB\\source\\repos\\KursnaListaAPI\\KursnaListaAPI\\wwwroot\\",
+      "BasePath": "_content/KursnaListaAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\BB\\source\\repos\\KursnaListaAPI\\KursnaListaAPI\\wwwroot\\KursnaLista.txt",
+      "SourceId": "KursnaListaAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BB\\source\\repos\\KursnaListaAPI\\KursnaListaAPI\\wwwroot\\",
+      "BasePath": "_content/KursnaListaAPI",
+      "RelativePath": "KursnaLista.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\KursnaLista.txt"
+    }
+  ]
+}
